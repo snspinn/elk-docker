@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elasticsearch, Logstash, Kibana (ELK) Docker image
 
 [![](https://images.microbadger.com/badges/image/sebp/elk.svg)](https://microbadger.com/images/sebp/elk "Get your own image badge on microbadger.com") [![Documentation Status](https://readthedocs.org/projects/elk-docker/badge/?version=latest)](http://elk-docker.readthedocs.io/?badge=latest)
@@ -53,3 +54,7 @@ The following tags are available:
 ### About
 
 Written by [Sébastien Pujadas](https://pujadas.net), released under the [Apache 2 license](https://www.apache.org/licenses/LICENSE-2.0).
+=======
+# elk-docker
+Work-in-progress to get elk stack collecting docker-compose logs
+>>>>>>> e12d43706c4a694dbb2046319bd96f4ab33c776c
